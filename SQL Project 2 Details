@@ -1,0 +1,19 @@
+Project Title: Nashville Housing Data Cleaning
+
+Description:
+This project involves cleaning a dataset containing Nashville housing information to ensure data accuracy and consistency. 
+The dataset encompasses various details such as property addresses, sale prices, and sale dates. By standardizing formats,
+resolving missing values, and removing duplicates, the dataset is prepared for insightful analysis.
+
+Key Steps:
+
+Standardizing Dates: Converting sale dates to a uniform format enhances data coherence.
+Populating Addresses: Missing property addresses are filled by cross-referencing Parcel IDs.
+Address Breakdown: Dividing addresses into distinct components like street, city, and state streamlines analysis.
+Standardizing Vacancy Status: Homogenizing the "Sold as Vacant" field clarifies vacant property status.
+Removing Duplicates: Eliminating duplicate entries ensures data integrity and accuracy.
+Unused Column Deletion: Removing irrelevant columns like OwnerAddress and TaxDistrict streamlines the dataset for analysis.
+
+
+Usage:
+The refined dataset is ready for a myriad of applications including predictive modeling, market trend analysis, and strategic decision-making within the Nashville housing sector.
